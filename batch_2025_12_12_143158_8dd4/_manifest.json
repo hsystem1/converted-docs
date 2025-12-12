@@ -1,0 +1,488 @@
+{
+  "batch_id": "4b430483",
+  "created_at": "2025-12-12T14:31:58.866547",
+  "completed_at": "2025-12-12T14:34:58.477466",
+  "repo": "hsystem1/converted-docs",
+  "docs_folder": "batch_2025_12_12_143158_8dd4/docs",
+  "images_folder": "batch_2025_12_12_143158_8dd4/images",
+  "total_files": 29,
+  "completed": 29,
+  "failed": 0,
+  "documents": {
+    "Validação de Segurança – Sem Sinal para Receber Ligação.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Validação de Segurança – Sem Sinal para Receber Ligação.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Reset de Autenticador – Procedimento.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Reset de Autenticador – Procedimento.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Case - Solicitação de Criação de Novo Usuário.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Case - Solicitação de Criação de Novo Usuário.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Disponibilidade divergente entre PMS e Hunit.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Disponibilidade divergente entre PMS e Hunit.md",
+      "images_count": 1,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Disponibilidade_dive_image_4e21f1db.png"
+        }
+      ]
+    },
+    "Como localizar a Ficha do Canal (Operadora).docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Como localizar a Ficha do Canal (Operadora).md",
+      "images_count": 5,
+      "images": [
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_localizar_a_Fic_image4_1db7a8c6.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_localizar_a_Fic_image3_c9f2e8e2.png"
+        },
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_localizar_a_Fic_image_bcb9728b.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_localizar_a_Fic_image5_0f557ea0.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_localizar_a_Fic_image2_1b4a0968.png"
+        }
+      ]
+    },
+    "Perguntas e Respostas para IA1.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Perguntas e Respostas para IA1.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Como identificar se uma reserva é do Hcorp by HoteisNet.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Como identificar se uma reserva é do Hcorp by HoteisNet.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Glossário – Hotelaria & Tecnologia (Hsystem).docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Glossário – Hotelaria & Tecnologia (Hsystem).md",
+      "images_count": 11,
+      "images": [
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Glossário_–_Hotelar_image2_42b2e7a0.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Glossário_–_Hotelar_image5_c72bd55e.png"
+        },
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Glossário_–_Hotelar_image_f6d6342b.png"
+        },
+        {
+          "name": "image9.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Glossário_–_Hotelar_image9_6f330b19.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Glossário_–_Hotelar_image6_80128b75.png"
+        },
+        {
+          "name": "image7.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Glossário_–_Hotelar_image7_f495bab2.png"
+        },
+        {
+          "name": "imagea.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Glossário_–_Hotelar_imagea_ff66cf7d.png"
+        },
+        {
+          "name": "image8.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Glossário_–_Hotelar_image8_c4735d3c.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Glossário_–_Hotelar_image4_547b8e2a.png"
+        },
+        {
+          "name": "imageb.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Glossário_–_Hotelar_imageb_b7b96a2a.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Glossário_–_Hotelar_image3_bb8857ee.png"
+        }
+      ]
+    },
+    "Como realizar o cancelamento de reservas.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Como realizar o cancelamento de reservas.md",
+      "images_count": 4,
+      "images": [
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_realizar_o_canc_image2_8fa98f5b.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_realizar_o_canc_image4_aca169a4.png"
+        },
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_realizar_o_canc_image_cffc15cb.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_realizar_o_canc_image3_01093668.png"
+        }
+      ]
+    },
+    "Como acessar o HBOT (Atendimento Inteligente).docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Como acessar o HBOT (Atendimento Inteligente).md",
+      "images_count": 4,
+      "images": [
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_acessar_o_HBOT__image2_3f0eb686.png"
+        },
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_acessar_o_HBOT__image_0c857346.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_acessar_o_HBOT__image4_ee9f456b.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_acessar_o_HBOT__image3_23883870.png"
+        }
+      ]
+    },
+    "Perguntas e Respostas para IA.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Perguntas e Respostas para IA.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Derivação Tarifária (Preenchimento Automático de Valores).docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Derivação Tarifária (Preenchimento Automático de Valores).md",
+      "images_count": 0,
+      "images": []
+    },
+    "Case - Antecedência Mínima HBOOK- Motor de Reservas.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Case - Antecedência Mínima HBOOK- Motor de Reservas.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Pergunta para IA.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Pergunta para IA.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Usuário Bloqueado Desativado por segurança.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Usuário Bloqueado Desativado por segurança.md",
+      "images_count": 1,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Usuário_Bloqueado_D_image_3264bbe5.png"
+        }
+      ]
+    },
+    "Criação de Nova Tarifa – Orientações para Mapeamento.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Criação de Nova Tarifa – Orientações para Mapeamento.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Case - Análise de Histórico de Atualizações (Grade de Informações).docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Case - Análise de Histórico de Atualizações (Grade de Informações).md",
+      "images_count": 4,
+      "images": [
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Case_-_Análise_de_H_image2_c2e83b06.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Case_-_Análise_de_H_image3_df761b7c.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Case_-_Análise_de_H_image4_d622cdee.png"
+        },
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Case_-_Análise_de_H_image_e24a325f.png"
+        }
+      ]
+    },
+    "Como acessar o  HPRICE.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Como acessar o  HPRICE.md",
+      "images_count": 5,
+      "images": [
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_acessar_o__HPRI_image2_f4a904e7.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_acessar_o__HPRI_image3_84092512.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_acessar_o__HPRI_image5_9815b3f8.png"
+        },
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_acessar_o__HPRI_image_268c4b52.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_acessar_o__HPRI_image4_0dc32e63.png"
+        }
+      ]
+    },
+    "Como acessar o sistema Hbook.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Como acessar o sistema Hbook.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Como criar pacotes sazonais usando restrições.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Como criar pacotes sazonais usando restrições.md",
+      "images_count": 6,
+      "images": [
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_criar_pacotes_s_image2_9c43b508.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_criar_pacotes_s_image5_efb92cf9.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_criar_pacotes_s_image6_b38db945.png"
+        },
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_criar_pacotes_s_image_f4d81291.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_criar_pacotes_s_image3_2b7cd913.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_criar_pacotes_s_image4_23dfc857.png"
+        }
+      ]
+    },
+    "Case - nova categoria.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Case - nova categoria.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Disponibilidade divergente entre Hunit e Canal de Vendas.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Disponibilidade divergente entre Hunit e Canal de Vendas.md",
+      "images_count": 13,
+      "images": [
+        {
+          "name": "image8.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Disponibilidade_dive_image8_4eb30bde.png"
+        },
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Disponibilidade_dive_image_a068cdee.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Disponibilidade_dive_image2_be5eeacb.png"
+        },
+        {
+          "name": "image9.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Disponibilidade_dive_image9_31462725.png"
+        },
+        {
+          "name": "image7.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Disponibilidade_dive_image7_ecc87fa1.png"
+        },
+        {
+          "name": "imagea.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Disponibilidade_dive_imagea_eee0cd28.png"
+        },
+        {
+          "name": "imageb.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Disponibilidade_dive_imageb_11ba950b.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Disponibilidade_dive_image4_9ac496c4.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Disponibilidade_dive_image3_0a873d74.png"
+        },
+        {
+          "name": "imagec.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Disponibilidade_dive_imagec_159abf7f.png"
+        },
+        {
+          "name": "imaged.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Disponibilidade_dive_imaged_051786f6.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Disponibilidade_dive_image5_c427f9f2.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Disponibilidade_dive_image6_80a576d6.png"
+        }
+      ]
+    },
+    "Reset de Senha – Como redefinir seu acesso.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Reset de Senha – Como redefinir seu acesso.md",
+      "images_count": 2,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Reset_de_Senha_–_Com_image_b9a02f5e.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Reset_de_Senha_–_Com_image2_851c81c5.png"
+        }
+      ]
+    },
+    "Como configurar ou alterar a política de cancelamento.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Como configurar ou alterar a política de cancelamento.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Overbooking O que o Cliente deve checar antes de contatar o.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Overbooking O que o Cliente deve checar antes de contatar o.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Cancelamento no canal de oridem e não PMS.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Cancelamento no canal de oridem e não PMS.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Reserva não integrada no Hunit (Channel Manager).docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Reserva não integrada no Hunit (Channel Manager).md",
+      "images_count": 0,
+      "images": []
+    },
+    "Como acessar o HCORP.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Como acessar o HCORP.md",
+      "images_count": 6,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_acessar_o_HCORP_image_cec96294.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_acessar_o_HCORP_image6_3872a59c.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_acessar_o_HCORP_image3_7c5e073c.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_acessar_o_HCORP_image2_eb62e49f.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_acessar_o_HCORP_image4_d8c055e7.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Como_acessar_o_HCORP_image5_cdfff720.png"
+        }
+      ]
+    },
+    "Tarifas e restrições não estão refletindo no canal.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/docs/Tarifas e restrições não estão refletindo no canal.md",
+      "images_count": 10,
+      "images": [
+        {
+          "name": "image8.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Tarifas_e_restriçõ_image8_868b5fa8.png"
+        },
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Tarifas_e_restriçõ_image_276fbcaf.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Tarifas_e_restriçõ_image5_6ab0d6fe.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Tarifas_e_restriçõ_image2_cca2430f.png"
+        },
+        {
+          "name": "image9.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Tarifas_e_restriçõ_image9_9eb4f1e4.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Tarifas_e_restriçõ_image6_6682bea1.png"
+        },
+        {
+          "name": "image7.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Tarifas_e_restriçõ_image7_bd97021d.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Tarifas_e_restriçõ_image3_9aafc69f.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Tarifas_e_restriçõ_image4_84513421.png"
+        },
+        {
+          "name": "imagea.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2025_12_12_143158_8dd4/images/Tarifas_e_restriçõ_imagea_cc34bc30.png"
+        }
+      ]
+    }
+  }
+}
