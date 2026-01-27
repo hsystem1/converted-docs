@@ -1,0 +1,252 @@
+{
+  "batch_id": "837b54ee",
+  "created_at": "2026-01-27T14:39:25.419499",
+  "completed_at": "2026-01-27T14:40:15.821189",
+  "repo": "hsystem1/converted-docs",
+  "docs_folder": "batch_2026_01_27_143925_ccc0/docs",
+  "images_folder": "batch_2026_01_27_143925_ccc0/images",
+  "total_files": 10,
+  "completed": 10,
+  "failed": 0,
+  "documents": {
+    "Antecedencia Mimina  - HBOOK.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/docs/Antecedencia%20Mimina%20%20-%20HBOOK.md",
+      "images_count": 5,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Antecedencia_Mimina__image_793837d9.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Antecedencia_Mimina__image2_114bf5ca.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Antecedencia_Mimina__image3_3ff39076.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Antecedencia_Mimina__image4_cd5190a2.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Antecedencia_Mimina__image5_889e3aaa.png"
+        }
+      ]
+    },
+    "Aplicativo de Autenticação – Regras de Uso e Orientações Importantes.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/docs/Aplicativo%20de%20Autenticac%CC%A7a%CC%83o%20%E2%80%93%20Regras%20de%20Uso%20e%20Orientac%CC%A7o%CC%83es%20Importantes.md",
+      "images_count": 4,
+      "images": [
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Aplicativo_de_Autent_image3_81aa3b10.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Aplicativo_de_Autent_image4_559db313.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Aplicativo_de_Autent_image2_49deb53b.png"
+        },
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Aplicativo_de_Autent_image_1bfd2d88.png"
+        }
+      ]
+    },
+    "Bloqueio de Processamento.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/docs/Bloqueio%20de%20Processamento.md",
+      "images_count": 7,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Bloqueio_de_Processa_image_749c4b5a.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Bloqueio_de_Processa_image2_de5c0e06.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Bloqueio_de_Processa_image3_6822f9e1.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Bloqueio_de_Processa_image4_b402d90c.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Bloqueio_de_Processa_image5_8de87f12.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Bloqueio_de_Processa_image6_dacdb263.png"
+        },
+        {
+          "name": "image7.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Bloqueio_de_Processa_image7_f3486ec7.png"
+        }
+      ]
+    },
+    "Cancelamento no canal de Origem  não PMS.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/docs/Cancelamento%20no%20canal%20de%20Origem%20%20na%CC%83o%20PMS.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Case - Criação de Novo Usuário.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/docs/Case%20-%20Criac%CC%A7a%CC%83o%20de%20Novo%20Usua%CC%81rio.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Case - Grade de Informações HUNIT.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/docs/Case%20-%20Grade%20de%20Informac%CC%A7o%CC%83es%20HUNIT.md",
+      "images_count": 12,
+      "images": [
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Case_-_Grade_de_Info_image5_0ebb1142.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Case_-_Grade_de_Info_image6_5ecfd65b.png"
+        },
+        {
+          "name": "image7.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Case_-_Grade_de_Info_image7_991eda9a.png"
+        },
+        {
+          "name": "image8.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Case_-_Grade_de_Info_image8_88daf707.png"
+        },
+        {
+          "name": "image9.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Case_-_Grade_de_Info_image9_e7dfe595.png"
+        },
+        {
+          "name": "imagea.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Case_-_Grade_de_Info_imagea_b5fec16c.png"
+        },
+        {
+          "name": "imageb.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Case_-_Grade_de_Info_imageb_0ac6c565.png"
+        },
+        {
+          "name": "imagec.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Case_-_Grade_de_Info_imagec_adab19fe.png"
+        },
+        {
+          "name": "imaged.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Case_-_Grade_de_Info_imaged_90d161e6.png"
+        },
+        {
+          "name": "imagee.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Case_-_Grade_de_Info_imagee_36b5e273.png"
+        },
+        {
+          "name": "imagef.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Case_-_Grade_de_Info_imagef_c28c3943.png"
+        },
+        {
+          "name": "image10.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Case_-_Grade_de_Info_image10_289985fe.png"
+        }
+      ]
+    },
+    "Classificação de Estrelas Hoteisnet.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/docs/Classificac%CC%A7a%CC%83o%20de%20Estrelas%20Hoteisnet.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Como acessar o  HPRICE.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/docs/Como%20acessar%20o%20%20HPRICE.md",
+      "images_count": 5,
+      "images": [
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Como_acessar_o__HPRI_image2_f4a904e7.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Como_acessar_o__HPRI_image3_84092512.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Como_acessar_o__HPRI_image5_9815b3f8.png"
+        },
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Como_acessar_o__HPRI_image_268c4b52.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Como_acessar_o__HPRI_image4_0dc32e63.png"
+        }
+      ]
+    },
+    "Como acessar o HBOT (Atendimento Inteligente).docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/docs/Como%20acessar%20o%20HBOT%20%28Atendimento%20Inteligente%29.md",
+      "images_count": 4,
+      "images": [
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Como_acessar_o_HBOT__image2_3f0eb686.png"
+        },
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Como_acessar_o_HBOT__image_0c857346.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Como_acessar_o_HBOT__image4_ee9f456b.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Como_acessar_o_HBOT__image3_23883870.png"
+        }
+      ]
+    },
+    "Como acessar o Hcorp by HoteisNet.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/docs/Como%20acessar%20o%20Hcorp%20by%20HoteisNet.md",
+      "images_count": 6,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Como_acessar_o_Hcorp_image_cec96294.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Como_acessar_o_Hcorp_image6_3872a59c.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Como_acessar_o_Hcorp_image3_7c5e073c.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Como_acessar_o_Hcorp_image2_eb62e49f.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Como_acessar_o_Hcorp_image4_d8c055e7.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_01_27_143925_ccc0/images/Como_acessar_o_Hcorp_image5_cdfff720.png"
+        }
+      ]
+    }
+  }
+}
