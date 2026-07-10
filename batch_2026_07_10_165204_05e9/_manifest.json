@@ -1,0 +1,853 @@
+{
+  "batch_id": "ab3de27d",
+  "created_at": "2026-07-10T16:52:04.542177",
+  "completed_at": "2026-07-10T16:54:52.254547",
+  "repo": "hsystem1/converted-docs",
+  "docs_folder": "batch_2026_07_10_165204_05e9/docs",
+  "images_folder": "batch_2026_07_10_165204_05e9/images",
+  "total_files": 30,
+  "completed": 30,
+  "failed": 0,
+  "documents": {
+    "Aba Geral das Configurações da Propriedade no HAI (chatbot).docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Aba%20Geral%20das%20Configurac%CC%A7o%CC%83es%20da%20Propriedade%20no%20HAI%20%28chatbot%29.md",
+      "images_count": 5,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Aba_Geral_das_Config_image_7502e381.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Aba_Geral_das_Config_image2_22d96a90.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Aba_Geral_das_Config_image3_cefdd307.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Aba_Geral_das_Config_image4_356e8066.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Aba_Geral_das_Config_image5_5b352448.png"
+        }
+      ]
+    },
+    "Aba Motor de Reservas nas Configurações da Propriedade no HAI (chatbot).docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Aba%20Motor%20de%20Reservas%20nas%20Configurac%CC%A7o%CC%83es%20da%20Propriedade%20no%20HAI%20%28chatbot%29.md",
+      "images_count": 3,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Aba_Motor_de_Reserva_image_f05eccef.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Aba_Motor_de_Reserva_image2_d9035c98.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Aba_Motor_de_Reserva_image3_90204191.png"
+        }
+      ]
+    },
+    "Aba Operadoras do Hcorp no HUNIT — O que é e como navegar.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Aba%20Operadoras%20do%20Hcorp%20no%20HUNIT%20%E2%80%94%20O%20que%20e%CC%81%20e%20como%20navegar.md",
+      "images_count": 7,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Aba_Operadoras_do_Hc_image_68d70467.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Aba_Operadoras_do_Hc_image2_3393e939.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Aba_Operadoras_do_Hc_image3_395dde1a.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Aba_Operadoras_do_Hc_image4_14abd892.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Aba_Operadoras_do_Hc_image5_c113920b.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Aba_Operadoras_do_Hc_image6_c1ecd287.png"
+        },
+        {
+          "name": "image7.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Aba_Operadoras_do_Hc_image7_ac8f18e2.png"
+        }
+      ]
+    },
+    "Ações do menu da Grade de Informações (Nova) no HUNIT.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Ac%CC%A7o%CC%83es%20do%20menu%20da%20Grade%20de%20Informac%CC%A7o%CC%83es%20%28Nova%29%20no%20HUNIT.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Aplicativo de Autenticação (2FA) — Regras de uso e orientações.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Aplicativo%20de%20Autenticac%CC%A7a%CC%83o%20%282FA%29%20%E2%80%94%20Regras%20de%20uso%20e%20orientac%CC%A7o%CC%83es.md",
+      "images_count": 4,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Aplicativo_de_Autent_image_8b1c7ba5.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Aplicativo_de_Autent_image2_71f70bc0.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Aplicativo_de_Autent_image3_13e62a79.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Aplicativo_de_Autent_image4_2f5b6c7f.png"
+        }
+      ]
+    },
+    "Atualizações em Massa - Como abrir a venda (remover Stop de Vendas) no HUNIT.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Atualizac%CC%A7o%CC%83es%20em%20Massa%20-%C2%A0Como%20abrir%20a%20venda%20%28remover%20Stop%20de%20Vendas%29%20no%20HUNIT.md",
+      "images_count": 7,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image_42411188.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image2_b8d2720f.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image3_d2f12ca3.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image4_3f852d81.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image5_df5aac64.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image6_890add75.png"
+        },
+        {
+          "name": "image7.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image7_5edd2fe5.png"
+        }
+      ]
+    },
+    "Atualizações em Massa - Como atualizar a Estadia Mínima no HUNIT.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Atualizac%CC%A7o%CC%83es%20em%20Massa%20-%C2%A0Como%20atualizar%20a%20Estadia%20Mi%CC%81nima%20no%20HUNIT.md",
+      "images_count": 7,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image_4884f90e.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image2_fa611522.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image3_e02b19e6.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image4_9bead073.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image5_72e33051.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image6_890add75.png"
+        },
+        {
+          "name": "image7.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image7_9cea2d09.png"
+        }
+      ]
+    },
+    "Atualizações em Massa - Como atualizar disponibilidade no HUNIT.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Atualizac%CC%A7o%CC%83es%20em%20Massa%20-%C2%A0Como%20atualizar%20disponibilidade%20no%20HUNIT.md",
+      "images_count": 7,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image_4884f90e.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image2_fa611522.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image3_e02b19e6.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image4_9bead073.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image5_072c5762.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image6_890add75.png"
+        },
+        {
+          "name": "image7.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image7_9cea2d09.png"
+        }
+      ]
+    },
+    "Atualizações em Massa - Como atualizar preços no HUNIT.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Atualizac%CC%A7o%CC%83es%20em%20Massa%20-%C2%A0Como%20atualizar%20prec%CC%A7os%20no%20HUNIT.md",
+      "images_count": 7,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image_2a51cdca.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image2_842d9f76.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image3_7eba7053.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image4_2491fe56.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image5_6ed9704c.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image6_d64d24af.png"
+        },
+        {
+          "name": "image7.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image7_870b70cb.png"
+        }
+      ]
+    },
+    "Atualizações em Massa - Como fechar a venda (Stop de Vendas) no HUNIT.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Atualizac%CC%A7o%CC%83es%20em%20Massa%20-%C2%A0Como%20fechar%20a%20venda%20%28Stop%20de%20Vendas%29%20no%20HUNIT.md",
+      "images_count": 7,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image_42411188.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image2_b8d2720f.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image3_d2f12ca3.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image4_3f852d81.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image5_b8d05438.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image6_890add75.png"
+        },
+        {
+          "name": "image7.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image7_5edd2fe5.png"
+        }
+      ]
+    },
+    "Atualizações em Massa - Como fechar Chegada e ou Saída no HUNIT.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Atualizac%CC%A7o%CC%83es%20em%20Massa%20-%C2%A0Como%20fechar%20Chegada%20e%20ou%20Sai%CC%81da%20no%20HUNIT.md",
+      "images_count": 7,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image_42411188.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image2_b8d2720f.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image3_d2f12ca3.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image4_3f852d81.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image5_9f3d1e86.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image6_890add75.png"
+        },
+        {
+          "name": "image7.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Atualizac%CC%A7o%CC%83es_em_Ma_image7_5edd2fe5.png"
+        }
+      ]
+    },
+    "Boas práticas para garantir uma conexão estável do HAI (chatbot) com o Meta.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Boas%20pra%CC%81ticas%20para%20garantir%20uma%20conexa%CC%83o%20esta%CC%81vel%20do%20HAI%20%28chatbot%29%20com%20o%20Meta.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Causas comuns de Bloqueio de Processamento e como resolver no HUNIT.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Causas%C2%A0comuns%C2%A0de%C2%A0Bloqueio%C2%A0de%C2%A0Processamento%C2%A0e%C2%A0como%C2%A0resolver%20no%20HUNIT.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Chat Online no HAI (chatbot) — Como atender uma conversa e usar as ferramentas.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Chat%20Online%20no%20HAI%20%28chatbot%29%20%E2%80%94%20Como%20atender%20uma%20conversa%20e%20usar%20as%20ferramentas.md",
+      "images_count": 9,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Chat_Online_no_HAI_%28_image_29c4df7c.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Chat_Online_no_HAI_%28_image2_b6c2df94.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Chat_Online_no_HAI_%28_image3_b13f7e64.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Chat_Online_no_HAI_%28_image4_0d95d14f.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Chat_Online_no_HAI_%28_image5_43cf9cf1.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Chat_Online_no_HAI_%28_image6_110f149b.png"
+        },
+        {
+          "name": "image7.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Chat_Online_no_HAI_%28_image7_d40abea5.png"
+        },
+        {
+          "name": "image8.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Chat_Online_no_HAI_%28_image8_96be05a9.png"
+        },
+        {
+          "name": "image9.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Chat_Online_no_HAI_%28_image9_79987783.png"
+        }
+      ]
+    },
+    "Chat Online no HAI (chatbot) — Como navegar e gerenciar a lista de conversas.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Chat%20Online%20no%20HAI%20%28chatbot%29%20%E2%80%94%20Como%20navegar%20e%20gerenciar%20a%20lista%20de%20conversas.md",
+      "images_count": 10,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Chat_Online_no_HAI_%28_image_10fee73a.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Chat_Online_no_HAI_%28_image2_0323c35c.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Chat_Online_no_HAI_%28_image3_75fb3e29.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Chat_Online_no_HAI_%28_image4_3b33660a.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Chat_Online_no_HAI_%28_image5_42a809d4.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Chat_Online_no_HAI_%28_image6_0f258e3f.png"
+        },
+        {
+          "name": "image7.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Chat_Online_no_HAI_%28_image7_c972abad.png"
+        },
+        {
+          "name": "image8.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Chat_Online_no_HAI_%28_image8_63f61b10.png"
+        },
+        {
+          "name": "image9.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Chat_Online_no_HAI_%28_image9_b00a7623.png"
+        },
+        {
+          "name": "imagea.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Chat_Online_no_HAI_%28_imagea_bec49730.png"
+        }
+      ]
+    },
+    "Como abrir o fechamento de Chegada e ou Saída no HUNIT.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Como%20abrir%20o%20fechamento%20de%20Chegada%20e%20ou%20Sai%CC%81da%20no%20HUNIT.md",
+      "images_count": 7,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image_42411188.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image2_b8d2720f.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image3_d2f12ca3.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image4_3f852d81.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image5_9201540f.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image6_890add75.png"
+        },
+        {
+          "name": "image7.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image7_5edd2fe5.png"
+        }
+      ]
+    },
+    "Como abrir o fechamento de Chegada e Saída no HBOOK.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Como%20abrir%20o%20fechamento%20de%20Chegada%20e%20Sai%CC%81da%20no%20HBOOK.md",
+      "images_count": 10,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image_8e1b537f.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image2_7028e5df.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image3_8e9c4583.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image4_ed0dd0bf.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image5_bf25045a.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image6_c673536e.png"
+        },
+        {
+          "name": "image7.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image7_3b81c842.png"
+        },
+        {
+          "name": "image8.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image8_a8c2934f.png"
+        },
+        {
+          "name": "image9.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image9_9fc64b63.png"
+        },
+        {
+          "name": "imagea.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_imagea_e26af4ba.png"
+        }
+      ]
+    },
+    "Como abrir o fechamento de venda (Stop de Vendas) no HBOOK.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Como%20abrir%20o%20fechamento%20de%20venda%20%28Stop%20de%20Vendas%29%20no%20HBOOK.md",
+      "images_count": 9,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image_31f2677f.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image2_de0dfed3.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image3_0816cbda.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image4_b5162638.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image5_011f1985.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image6_8547af69.png"
+        },
+        {
+          "name": "image7.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image7_14ef2070.png"
+        },
+        {
+          "name": "image8.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image8_83456efa.png"
+        },
+        {
+          "name": "image9.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_abrir_o_fechame_image9_2fef0a7c.png"
+        }
+      ]
+    },
+    "Como acessar os detalhes de uma reserva a partir da tabela de resultados no HBOOK.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Como%20acessar%20os%20detalhes%20de%20uma%20reserva%20a%20partir%20da%20tabela%20de%20resultados%20no%20HBOOK.md",
+      "images_count": 3,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_acessar_os_deta_image_c9fe0b85.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_acessar_os_deta_image2_1d4d3a02.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_acessar_os_deta_image3_5e5c780e.png"
+        }
+      ]
+    },
+    "Como acionar o suporte para disponibilidade divergente entre PMS e HUNIT.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Como%20acionar%20o%20suporte%20para%20disponibilidade%20divergente%20entre%20PMS%20e%20HUNIT.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Como acionar o suporte para disponibilidade divergente no HUNIT.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Como%20acionar%20o%20suporte%20para%20disponibilidade%20divergente%20no%20HUNIT.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Como acionar o suporte por overbooking e o que acontece após a análise.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Como%20acionar%20o%20suporte%20por%20overbooking%20e%20o%20que%20acontece%20apo%CC%81s%20a%20ana%CC%81lise.md",
+      "images_count": 0,
+      "images": []
+    },
+    "Como adicionar foto a um extra no HBOOK.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Como%20adicionar%20foto%20a%20um%20extra%20no%20HBOOK.md",
+      "images_count": 5,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_foto__image_bd02f840.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_foto__image2_b9567bf0.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_foto__image3_f39c5a84.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_foto__image4_94148205.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_foto__image5_e941a9d6.png"
+        }
+      ]
+    },
+    "Como adicionar foto a um pacote no HBOOK.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Como%20adicionar%20foto%20a%20um%20pacote%20no%20HBOOK.md",
+      "images_count": 5,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_foto__image_3fcffcb7.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_foto__image2_b299ac32.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_foto__image3_9b844831.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_foto__image4_4d1112f8.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_foto__image5_a430ea47.png"
+        }
+      ]
+    },
+    "Como adicionar imagens nas respostas do robô no HAI (chatbot).docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Como%20adicionar%20imagens%20nas%20respostas%20do%20robo%CC%82%20no%20HAI%20%28chatbot%29.md",
+      "images_count": 9,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_image_image_2a6205e3.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_image_image2_14131e3a.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_image_image3_9f73c9c5.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_image_image4_bc59b5a2.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_image_image5_29731b2d.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_image_image6_4885bf7c.png"
+        },
+        {
+          "name": "image7.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_image_image7_569a453d.png"
+        },
+        {
+          "name": "image8.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_image_image8_02eec995.png"
+        },
+        {
+          "name": "image9.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_image_image9_dcd24863.png"
+        }
+      ]
+    },
+    "Como adicionar o carrossel de comparação de quartos no HAI (chatbot).docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Como%20adicionar%20o%20carrossel%20de%20comparac%CC%A7a%CC%83o%20de%20quartos%20no%20HAI%20%28chatbot%29.md",
+      "images_count": 6,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_o_car_image_9f4bac80.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_o_car_image2_cc4eff12.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_o_car_image3_ee9cd763.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_o_car_image4_ceb90202.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_o_car_image5_24644d7f.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_o_car_image6_f66a57af.png"
+        }
+      ]
+    },
+    "Como adicionar uma comodidade ao quarto no HBOOK.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Como%20adicionar%20uma%20comodidade%20ao%20quarto%20no%20HBOOK.md",
+      "images_count": 6,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_uma_c_image_636055f9.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_uma_c_image2_f0843dc8.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_uma_c_image3_ae0ec438.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_uma_c_image4_7f4e39d6.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_uma_c_image5_7295f9c5.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_uma_c_image6_ceb882dc.png"
+        }
+      ]
+    },
+    "Como adicionar uma foto ao quarto no HBOOK.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Como%20adicionar%20uma%20foto%20ao%20quarto%20no%20HBOOK.md",
+      "images_count": 7,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_uma_f_image_636055f9.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_uma_f_image2_f0843dc8.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_uma_f_image3_b8f28378.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_uma_f_image4_7656c2b3.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_uma_f_image5_c1a39f16.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_uma_f_image6_de64ba13.png"
+        },
+        {
+          "name": "image7.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_uma_f_image7_d9aaf57f.png"
+        }
+      ]
+    },
+    "Como adicionar uma montagem de cama ao quarto no HBOOK.docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Como%20adicionar%20uma%20montagem%20de%20cama%20ao%20quarto%20no%20HBOOK.md",
+      "images_count": 7,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_uma_m_image_636055f9.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_uma_m_image2_c710aadd.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_uma_m_image3_74f8f2a4.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_uma_m_image4_05629d85.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_uma_m_image5_9603e85d.png"
+        },
+        {
+          "name": "image6.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_uma_m_image6_4a5bda65.png"
+        },
+        {
+          "name": "image7.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_adicionar_uma_m_image7_cd2e25ac.png"
+        }
+      ]
+    },
+    "Como alterar a cor do indicador de estadia mínima no calendário do HAI (chatbot).docx": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/docs/Como%20alterar%20a%20cor%20do%20indicador%20de%20estadia%20mi%CC%81nima%20no%20calenda%CC%81rio%20do%20HAI%20%28chatbot%29.md",
+      "images_count": 5,
+      "images": [
+        {
+          "name": "image.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_alterar_a_cor_d_image_7830264d.png"
+        },
+        {
+          "name": "image2.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_alterar_a_cor_d_image2_1b2641c7.png"
+        },
+        {
+          "name": "image3.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_alterar_a_cor_d_image3_caaa3c5d.png"
+        },
+        {
+          "name": "image4.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_alterar_a_cor_d_image4_513ba86f.png"
+        },
+        {
+          "name": "image5.png",
+          "url": "https://raw.githubusercontent.com/hsystem1/converted-docs/main/batch_2026_07_10_165204_05e9/images/Como_alterar_a_cor_d_image5_e5e64ccd.png"
+        }
+      ]
+    }
+  }
+}
